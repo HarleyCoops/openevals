@@ -16,7 +16,7 @@
   "dependencies": {
     "@langchain/openai": "^0.4.4",
     "langchain": "^1.4.2",
-    "langsmith": "^0.6.0",
+    "langsmith": "^0.6.1",
     "uuid": "^14.0.0",
     "zod": "^3.24.2",
     "zod-to-json-schema": "^3.24.5"
@@ -46,7 +46,7 @@
     "openai": "^4.85.1",
     "prettier": "^3.5.1",
     "typescript": "~5.1.6",
-    "vitest": "^3.0.5"
+    "vitest": "^3.2.6"
   },
   "peerDependenciesMeta": {
     "typescript": {
